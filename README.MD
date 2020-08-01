@@ -25,7 +25,7 @@ Now start developing your plugin with Kotlin and enjoy!
 
 The official Kotlin FAQ can be found [here](https://kotlinlang.org/docs/reference/faq.html).
 
-Kotlin is developed by [JetBrains](http://www.jetbrains.com/), the source code can be found [GitHub](https://github.com/jetbrains/kotlin).
+Kotlin is developed by [JetBrains](http://www.jetbrains.com/), the source code can be found on [GitHub](https://github.com/jetbrains/kotlin).
 
 ## Source code
 
