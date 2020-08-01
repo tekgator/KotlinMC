@@ -14,7 +14,7 @@ This plugin comes to help, the JAR just needs to be dropped into the plugin dire
 
 1. Download the JAR
 2. Place it into the plugin directory of your Bukkit / Spigot installation
-3. Add the Kotlin plugin as a dependency to your plugin in your ``plugin.yml`` file 
+3. Add the Kotlin plugin as a dependency to your plugin in the ``plugin.yml`` file 
 ```yaml
 depend: [Kotlin]
 ```
