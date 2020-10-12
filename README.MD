@@ -6,9 +6,9 @@ This plugin comes to help, the JAR just needs to be dropped into the plugin dire
 
 ## What's included in the current release
 
-- Kotlin v1.4.0
+- Kotlin v1.4.10
 - KotlinX Coroutines v1.3.9
-- KotlinX Serialization v1.0.0-RC
+- KotlinX Serialization v1.0.0
 
 ## How to use it
 

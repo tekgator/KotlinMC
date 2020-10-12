@@ -1,11 +1,11 @@
 plugins {
-    kotlin("jvm") version "1.4.0"
-    kotlin("plugin.serialization") version "1.4.0"
-    id ("com.github.johnrengelman.shadow") version "6.0.0"
+    kotlin("jvm") version "1.4.10"
+    kotlin("plugin.serialization") version "1.4.10"
+    id ("com.github.johnrengelman.shadow") version "6.1.0"
 }
 
 group = "com.tekgator"
-version = "1.4.0.1"
+version = "1.4.10.1"
 
 repositories {
     mavenCentral()
@@ -21,7 +21,7 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib"))
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.9")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.0.0-RC")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.0.0")
     compileOnly ("org.bukkit:bukkit:1.15.2-R0.1-SNAPSHOT")
 }
 
