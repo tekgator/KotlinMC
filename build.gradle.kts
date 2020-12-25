@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.tekgator"
-version = "1.4.10.2"
+version = "1.4.10.3"
 
 repositories {
     mavenCentral()
@@ -19,7 +19,7 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib"))
+    implementation(kotlin("stdlib-jdk8"))
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.9")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.0.1")
     compileOnly ("org.bukkit:bukkit:1.15.2-R0.1-SNAPSHOT")
