@@ -2,13 +2,13 @@
 
 <p>
   <a href="https://github.com/tekgator/KotlinMC/actions/workflows/gradle.yml" alt="Actions">
-    <img src="https://img.shields.io/github/workflow/status/tekgator/KotlinMC/Java%20CI%20with%20Gradle?style=for-the-badge" />
+    <img src="https://img.shields.io/github/workflow/status/tekgator/KotlinMC/Java%20CI%20with%20Gradle" />
   </a>
   <a href="https://github.com/tekgator/KotlinMC/releases" alt="Releases">
-    <img src="https://img.shields.io/github/v/release/tekgator/KotlinMC?style=for-the-badge" />
+    <img src="https://img.shields.io/github/v/release/tekgator/KotlinMC" />
   </a>
   <a href="https://github.com/tekgator/KotlinMC/blob/main/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/tekgator/KotlinMC?style=for-the-badge" />
+    <img src="https://img.shields.io/github/license/tekgator/KotlinMC" />
   </a>
 </p>
 
